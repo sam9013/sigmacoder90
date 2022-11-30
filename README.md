@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam, New here, but you can also find me as @sigmacoder90
+- 👋 Hi, I’m Sam.
 - 👀 I’m interested in everything related to programming
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on sharing all my learning process posting every single piece of code i ve learned from all lessons.
